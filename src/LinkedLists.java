@@ -2,7 +2,7 @@ import java.util.*;
 
 public class LinkedLists {
     public static void main(String[] args){
-        String[] things = {"apples", "noobs", "pwnage", "bacon", "goats", "dogs"};
+        String[] things = {"apples", "noobs", "pwnage", "bacon", "goats"};
         List<String> list1 = new LinkedList<String>();
 
         for (String x : things){
